@@ -1,0 +1,14 @@
+C:\Weather_App\Weather_App\bin\Debug\Weather_App.exe.config
+C:\Weather_App\Weather_App\bin\Debug\Weather_App.exe
+C:\Weather_App\Weather_App\bin\Debug\Weather_App.pdb
+C:\Weather_App\Weather_App\obj\Debug\Weather_App.csproj.AssemblyReference.cache
+C:\Weather_App\Weather_App\obj\Debug\Weather_App.Form1.resources
+C:\Weather_App\Weather_App\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Weather_App\Weather_App\obj\Debug\Weather_App.csproj.GenerateResource.cache
+C:\Weather_App\Weather_App\obj\Debug\Weather_App.csproj.CoreCompileInputs.cache
+C:\Weather_App\Weather_App\obj\Debug\Weather_App.exe
+C:\Weather_App\Weather_App\obj\Debug\Weather_App.pdb
+C:\Weather_App\Weather_App\bin\Debug\Newtonsoft.Json.dll
+C:\Weather_App\Weather_App\bin\Debug\Newtonsoft.Json.xml
+C:\Weather_App\Weather_App\obj\Debug\Weather_App.exe.config
+C:\Weather_App\Weather_App\obj\Debug\Weather_.1DE26C5E.Up2Date
