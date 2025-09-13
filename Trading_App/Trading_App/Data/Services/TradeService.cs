@@ -1,5 +1,6 @@
-﻿using Trading_App.Models;
+﻿using Microsoft.EntityFrameworkCore;
 using System.Net.Http.Headers;
+using Trading_App.Models;
 
 namespace Trading_App.Data.Services
 {
@@ -8,14 +9,15 @@ namespace Trading_App.Data.Services
         private readonly Trading_Context _context;
 
         public TradeService(Trading_Context context)
-        { 
-            _context = context; 
+        {
+            _context = context;
         }
 
-        //First of all make sure you are getting data till here 
-        
+       
+
         public async Task<string> GetTrades()
         {
+
             var client = new HttpClient();
             var request = new HttpRequestMessage
             {
@@ -31,12 +33,34 @@ namespace Trading_App.Data.Services
             {
                 response.EnsureSuccessStatusCode();
                 var body = await response.Content.ReadAsStringAsync();
-                // Just execute the Service and come to this point
-                // Don't upload to the database , only try to run the service.
-                // This should represent what we are getting 
-                Console.WriteLine(body);
+              
                 return body;
             }
         }
+        public List<TradeEntity> All_Trades()   
+        {
+            return (_context.SavedTrades.ToList());
+        }
+
+        public List<Watchlist_Entity> Watchlist_Trades()
+        {
+            return(_context.Watchlist.ToList());
+        }
+
+        public async Task Sync_Db(List<TradeEntity> selectedTrades)
+        {
+
+            _context.RemoveRange(_context.SavedTrades);
+            await _context.AddRangeAsync(selectedTrades);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task Update_Watchlist_Db(List<Watchlist_Entity> selectedWatchlist)
+        {
+            _context.RemoveRange(_context.Watchlist);
+            await _context.AddRangeAsync(selectedWatchlist);
+            await _context.SaveChangesAsync();
+        }
+        
     }
 }

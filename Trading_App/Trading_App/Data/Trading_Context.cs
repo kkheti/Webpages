@@ -8,7 +8,13 @@ namespace Trading_App.Data
         //Bridge between the database and the Model
         public Trading_Context(DbContextOptions<Trading_Context>options):base(options) { }
 
-        public DbSet<Trade_Model> Trades { get; set; }
+        public DbSet<TradeEntity> SavedTrades { get; set; }
+        public DbSet<Watchlist_Entity> Watchlist { get; set; }
     }
 }
 //Data Source=LAPTOP-SVJ4OCSP;Initial Catalog=Trade_Db;Integrated Security=True;Pooling=False;Encrypt=False;Trust Server Certificate=True
+//Database Commands
+/*
+ * Add-migration "intial migration"
+ * Update Database
+ */

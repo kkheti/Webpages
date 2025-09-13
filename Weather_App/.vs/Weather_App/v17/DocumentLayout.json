@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Weather_App\\",
+  "WorkspaceRootPath": "C:\\Github_Projects\\Webpages\\Weather_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8F7E863-B4DC-441F-A568-342A92FA6294}|Weather_App\\Weather_App.csproj|C:\\Weather_App\\weather_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8F7E863-B4DC-441F-A568-342A92FA6294}|Weather_App\\Weather_App.csproj|c:\\github_projects\\webpages\\weather_app\\weather_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8F7E863-B4DC-441F-A568-342A92FA6294}|Weather_App\\Weather_App.csproj|solutionrelative:weather_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F7E863-B4DC-441F-A568-342A92FA6294}|Weather_App\\Weather_App.csproj|C:\\Weather_App\\weather_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D8F7E863-B4DC-441F-A568-342A92FA6294}|Weather_App\\Weather_App.csproj|C:\\Github_Projects\\Webpages\\Weather_App\\weather_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D8F7E863-B4DC-441F-A568-342A92FA6294}|Weather_App\\Weather_App.csproj|solutionrelative:weather_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8F7E863-B4DC-441F-A568-342A92FA6294}|Weather_App\\Weather_App.csproj|c:\\weather_app\\weather_app\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8F7E863-B4DC-441F-A568-342A92FA6294}|Weather_App\\Weather_App.csproj|C:\\Github_Projects\\Webpages\\Weather_App\\weather_app\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8F7E863-B4DC-441F-A568-342A92FA6294}|Weather_App\\Weather_App.csproj|solutionrelative:weather_app\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Weather_App\\Weather_App\\Form1.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Weather_App\\Weather_App\\Form1.cs",
               "RelativeDocumentMoniker": "Weather_App\\Form1.cs",
-              "ToolTip": "C:\\Weather_App\\Weather_App\\Form1.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Weather_App\\Weather_App\\Form1.cs",
               "RelativeToolTip": "Weather_App\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T02:38:51.842Z",
               "EditorCaption": ""
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Weather_App\\Weather_App\\Form1.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Weather_App\\Weather_App\\Form1.cs",
               "RelativeDocumentMoniker": "Weather_App\\Form1.cs",
-              "ToolTip": "C:\\Weather_App\\Weather_App\\Form1.cs [Design]",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Weather_App\\Weather_App\\Form1.cs [Design]",
               "RelativeToolTip": "Weather_App\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T03:00:53.097Z",
@@ -69,11 +69,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "WeatherInfo.cs",
-              "DocumentMoniker": "C:\\Weather_App\\Weather_App\\WeatherInfo.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Weather_App\\Weather_App\\WeatherInfo.cs",
               "RelativeDocumentMoniker": "Weather_App\\WeatherInfo.cs",
-              "ToolTip": "C:\\Weather_App\\Weather_App\\WeatherInfo.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Weather_App\\Weather_App\\WeatherInfo.cs",
               "RelativeToolTip": "Weather_App\\WeatherInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T03:30:01.67Z",
               "EditorCaption": ""

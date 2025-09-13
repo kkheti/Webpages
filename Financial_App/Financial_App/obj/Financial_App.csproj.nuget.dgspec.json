@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Financial_App\\Financial_App\\Financial_App.csproj": {}
+    "C:\\Github_Projects\\Webpages\\Financial_App\\Financial_App\\Financial_App.csproj": {}
   },
   "projects": {
-    "C:\\Financial_App\\Financial_App\\Financial_App.csproj": {
+    "C:\\Github_Projects\\Webpages\\Financial_App\\Financial_App\\Financial_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Financial_App\\Financial_App\\Financial_App.csproj",
+        "projectUniqueName": "C:\\Github_Projects\\Webpages\\Financial_App\\Financial_App\\Financial_App.csproj",
         "projectName": "Financial_App",
-        "projectPath": "C:\\Financial_App\\Financial_App\\Financial_App.csproj",
+        "projectPath": "C:\\Github_Projects\\Webpages\\Financial_App\\Financial_App\\Financial_App.csproj",
         "packagesPath": "C:\\Users\\khush\\.nuget\\packages\\",
-        "outputPath": "C:\\Financial_App\\Financial_App\\obj\\",
+        "outputPath": "C:\\Github_Projects\\Webpages\\Financial_App\\Financial_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

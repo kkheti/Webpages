@@ -1,34 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Trading_App\\",
+  "WorkspaceRootPath": "C:\\Github_Projects\\Webpages\\Trading_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\trading_app\\trading_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\trading_app\\trading_app\\data\\trading_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\data\\services\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\data\\services\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\data\\services\\itradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\data\\services\\itradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\data\\trading_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\data\\trading_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\trading_app\\trading_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\models\\watchlist_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\models\\watchlist_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\models\\tradeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\models\\tradeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\migrations\\20250825121454_intial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\migrations\\20250825121454_intial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\trading_app\\trading_app\\migrations\\20250802035245_intial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\migrations\\20250802035245_intial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\trading_app\\trading_app\\migrations\\trading_contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\migrations\\trading_contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\migrations\\trading_contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\trading_app\\trading_app\\models\\trade_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\models\\trade_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\migrations\\20250831134433_watchlist_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\migrations\\20250831134433_watchlist_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\trading_app\\trading_app\\trading_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\trading_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|c:\\github_projects\\webpages\\trading_app\\trading_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B888FE8D-4E6C-4353-9B6F-ECCFA3BAB835}|Trading_App\\Trading_App.csproj|solutionrelative:trading_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,103 +81,196 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Trading_App\\Trading_App\\Program.cs",
-              "RelativeDocumentMoniker": "Trading_App\\Program.cs",
-              "ToolTip": "C:\\Trading_App\\Trading_App\\Program.cs",
-              "RelativeToolTip": "Trading_App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T03:45:20.655Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Trading_App\\Trading_App\\appsettings.json",
-              "RelativeDocumentMoniker": "Trading_App\\appsettings.json",
-              "ToolTip": "C:\\Trading_App\\Trading_App\\appsettings.json",
-              "RelativeToolTip": "Trading_App\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-02T03:43:16.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Trading_Context.cs",
-              "DocumentMoniker": "C:\\Trading_App\\Trading_App\\Data\\Trading_Context.cs",
-              "RelativeDocumentMoniker": "Trading_App\\Data\\Trading_Context.cs",
-              "ToolTip": "C:\\Trading_App\\Trading_App\\Data\\Trading_Context.cs",
-              "RelativeToolTip": "Trading_App\\Data\\Trading_Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T02:49:58.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250802035245_intial-migration.cs",
-              "DocumentMoniker": "C:\\Trading_App\\Trading_App\\Migrations\\20250802035245_intial-migration.cs",
-              "RelativeDocumentMoniker": "Trading_App\\Migrations\\20250802035245_intial-migration.cs",
-              "ToolTip": "C:\\Trading_App\\Trading_App\\Migrations\\20250802035245_intial-migration.cs",
-              "RelativeToolTip": "Trading_App\\Migrations\\20250802035245_intial-migration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T03:52:45.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Trading_ContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Trading_App\\Trading_App\\Migrations\\Trading_ContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Trading_App\\Migrations\\Trading_ContextModelSnapshot.cs",
-              "ToolTip": "C:\\Trading_App\\Trading_App\\Migrations\\Trading_ContextModelSnapshot.cs",
-              "RelativeToolTip": "Trading_App\\Migrations\\Trading_ContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T03:53:01.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Trade_Model.cs",
-              "DocumentMoniker": "C:\\Trading_App\\Trading_App\\Models\\Trade_Model.cs",
-              "RelativeDocumentMoniker": "Trading_App\\Models\\Trade_Model.cs",
-              "ToolTip": "C:\\Trading_App\\Trading_App\\Models\\Trade_Model.cs",
-              "RelativeToolTip": "Trading_App\\Models\\Trade_Model.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T02:24:25.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Trading_App",
-              "DocumentMoniker": "C:\\Trading_App\\Trading_App\\Trading_App.csproj",
-              "RelativeDocumentMoniker": "Trading_App\\Trading_App.csproj",
-              "ToolTip": "C:\\Trading_App\\Trading_App\\Trading_App.csproj",
-              "RelativeToolTip": "Trading_App\\Trading_App.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-02T02:48:40.896Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Trading_App\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "Trading_App\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-09T10:55:48.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TradeEntity.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Models\\TradeEntity.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Models\\TradeEntity.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Models\\TradeEntity.cs",
+              "RelativeToolTip": "Trading_App\\Models\\TradeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:09:51.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Trading_App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Trading_App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T04:20:08.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Trading_App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Trading_App\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T04:20:07.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250825121454_intial-migration.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Migrations\\20250825121454_intial-migration.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Migrations\\20250825121454_intial-migration.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Migrations\\20250825121454_intial-migration.cs",
+              "RelativeToolTip": "Trading_App\\Migrations\\20250825121454_intial-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:24:47.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trading_ContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Migrations\\Trading_ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Migrations\\Trading_ContextModelSnapshot.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Migrations\\Trading_ContextModelSnapshot.cs",
+              "RelativeToolTip": "Trading_App\\Migrations\\Trading_ContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:28:09.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trading_Context.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Data\\Trading_Context.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Data\\Trading_Context.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Data\\Trading_Context.cs",
+              "RelativeToolTip": "Trading_App\\Data\\Trading_Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:19:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250831134433_Watchlist_Migration.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Migrations\\20250831134433_Watchlist_Migration.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Migrations\\20250831134433_Watchlist_Migration.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Migrations\\20250831134433_Watchlist_Migration.cs",
+              "RelativeToolTip": "Trading_App\\Migrations\\20250831134433_Watchlist_Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:44:33.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Program.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Program.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Program.cs",
+              "RelativeToolTip": "Trading_App\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:32:37.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\appsettings.json",
+              "RelativeDocumentMoniker": "Trading_App\\appsettings.json",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\appsettings.json",
+              "RelativeToolTip": "Trading_App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T13:21:54.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TradeService.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Data\\Services\\TradeService.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Data\\Services\\TradeService.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Data\\Services\\TradeService.cs",
+              "RelativeToolTip": "Trading_App\\Data\\Services\\TradeService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:41:18.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "Trading_App\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:53:19.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trading_App\\Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Views\\Trade\\Index.cshtml*",
+              "RelativeToolTip": "Trading_App\\Views\\Trade\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T12:14:20.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITradeService.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Data\\Services\\ITradeService.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Data\\Services\\ITradeService.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Data\\Services\\ITradeService.cs",
+              "RelativeToolTip": "Trading_App\\Data\\Services\\ITradeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:49:26.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Watchlist_Entity.cs",
+              "DocumentMoniker": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Models\\Watchlist_Entity.cs",
+              "RelativeDocumentMoniker": "Trading_App\\Models\\Watchlist_Entity.cs",
+              "ToolTip": "C:\\Github_Projects\\Webpages\\Trading_App\\Trading_App\\Models\\Watchlist_Entity.cs",
+              "RelativeToolTip": "Trading_App\\Models\\Watchlist_Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:42:53.975Z",
+              "EditorCaption": ""
             }
           ]
         }

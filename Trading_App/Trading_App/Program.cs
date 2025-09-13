@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Trading_App.Data;
+using Trading_App.Data.Services;
 
 namespace Trading_App
 {
@@ -11,6 +12,7 @@ namespace Trading_App
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<ITradeService, TradeService>();
             builder.Services.AddDbContext<Trading_Context>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString")));
             var app = builder.Build();

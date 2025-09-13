@@ -1,0 +1,64 @@
+﻿@using Trading_App.Controllers
+@model OpenData
+
+<div style="display:flex; gap:30px;">
+    @* Stock List *@
+    <div style="flex:2">
+        <form asp-action="SaveSelected" method="post">
+            <table border="1" class="table-custom">
+                <thead>
+                    <tr>
+                        <th>Watchlist</th>
+                        <th>Symbol</th>
+                        <th>Name</th>
+                        <th>Reported Price</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var trade in Model.body)
+                    {
+                        <tr>
+                            <td>
+                                <input type="checkbox" name="selectedSymbols"
+                                       value="@trade.Symbol" />
+                            </td>
+
+                            <td>@trade.Symbol</td>
+                            <td>@trade.SymbolName</td>
+                            <td>@trade.reportedPrice</td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <button type="submit">Save to Database</button>
+        </form>
+    </div>
+
+    @* Watchlist *@
+
+    <div style="flex:1">
+        <h3>Watchlist</h3>
+        <table border="1" class="table-custom">
+            <thead>
+                <tr>
+                    <th>Symbol</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.watchlistTrades)
+                {
+                    <tr>
+                        <td>@item.Symbol</td>
+                        <td>@item.SymbolName</td>
+                        <td>@item.reportedPrice</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>
